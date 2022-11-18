@@ -11,7 +11,7 @@ void Bullet::shoot(float startX, float startY,
 	float targetX, float targetY)
 {
 	// Keep track of the bullet
-	m_InFlight = true;
+	m_InFlight = true; 
 	m_Position.x = startX;
 	m_Position.y = startY;
 

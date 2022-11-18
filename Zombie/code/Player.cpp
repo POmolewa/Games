@@ -1,5 +1,7 @@
 #include "Player.h"
 #include "TextureHolder.h"
+#include <SFML/Graphics.hpp>
+
 
 Player::Player()
 {
